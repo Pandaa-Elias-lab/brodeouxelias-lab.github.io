@@ -1,179 +1,189 @@
 ---
 layout: default
-title: Algemene Plaatselijke Verordening – Custom Editie 2025
+title: Algemene Plaatselijke Verordening – Dordrecht 2025
 ---
 
-# Algemene Plaatselijke Verordening – Custom Editie 2025
+# Algemene Plaatselijke Verordening – Dordrecht 2025
 
-**Laatst aangepast:** 11/11/2025 om 16:14
+Laatst aangepast: 11/11/2025 om 16:14
 
 ---
 
 ## Inhoudsopgave
-1. [Algemene Bepalingen](#algemene-bepalingen)
-2. [Cheats en Externe Software](#cheats-en-externe-software)
-3. [Exploits en Bugs](#exploits-en-bugs)
-4. [Alternatieve Accounts](#alternatieve-accounts)
-5. [IRL Trading](#irl-trading)
-6. [Massale RDM / VDM](#massale-rdm--vdm)
-7. [Ticket / Refundfraude](#ticket--refundfraude)
-8. [Doxen](#doxen)
-9. [Roleplay Gedrag](#roleplay-gedrag)
-10. [Onderwereld, Overheid en Gangs](#onderwereld-overheid-en-gangs)
-11. [Eiland- en Loodsregels](#eiland--en-loodsregels)
-12. [Voertuiggebruik](#voertuiggebruik)
-13. [Wapens en RDM](#wapens-en-rdm)
-14. [Algemene Regels](#algemene-regels)
-15. [Staffzaken](#staffzaken)
+
+- [1. Cheats](#1-cheats)
+  - [1.1 Cheats / Externe Software / Hardware](#11-cheats--externe-software--hardware)
+  - [1.2 Exploits / Bugs](#12-exploits--bugs)
+  - [1.3 Alternatieve accounts](#13-alternatieve-accounts)
+  - [1.4 IRL Trading](#14-irl-trading)
+  - [1.5 Massa RDM / VDM](#15-massa-rdm--vdm)
+  - [1.6 Ticket / Refund fraude](#16-ticket--refund-fraude)
+  - [1.7 Doxen](#17-doxen)
+
+- [2. Roleplay](#2-roleplay)
+  - [2.1 FailRP](#21-failrp)
+  - [2.2 Powergaming](#22-powergaming)
+  - [2.3 Microfoon](#23-microfoon)
+  - [2.4 Kloten op gangterreinen](#24-kloten-op-gangterreinen)
+  - [2.5 Metagamen](#25-metagamen)
+  - [2.6 Combatloggen](#26-combatloggen)
+  - [2.7 NVOL](#27-nvol)
+  - [2.8 Stemherkenning / Gezichtsherkenning](#28-stemherkenning--gezichtsherkenning)
+  - [2.9 Onderwereld](#29-onderwereld)
+  - [2.10 Overheid](#210-overheid)
+  - [2.11 Gangs](#211-gangs)
+  - [2.12 Eiland](#212-eiland)
+  - [2.13 Loodsen](#213-loodsen)
+
+- [3. Het gebruik van voertuigen](#3-het-gebruik-van-voertuigen)
+  - [3.1 Voertuig gebruik](#31-voertuig-gebruik)
+  - [3.2 Vehicle Deathmatch (VDM)](#32-vehicle-deathmatch-vdm)
+  - [3.3 GTA Style Driving](#33-gta-style-driving)
+  - [3.4 Scammen van voertuigen](#34-scammen-van-voertuigen)
+  - [3.5 Landen van helikopters / vliegtuigen](#35-landen-van-helikopters--vliegtuigen)
+
+- [4. Het gebruik van wapens](#4-het-gebruik-van-wapens)
+  - [4.1 RDM](#41-rdm)
+  - [4.2 Wapengebruik](#42-wapengebruik)
+
+- [5. Algemene regels](#5-algemene-regels)
+  - [5.1 Staffnamen / Bodycams / Discord](#51-staffnamen--bodycams--discord)
+  - [5.2 Taalgebruik](#52-taalgebruik)
+  - [5.3 Haat veroorzakend / Toxic gedrag](#53-haat-veroorzakend--toxic-gedrag)
+  - [5.4 Streamers en content creators](#54-streamers-en-content-creators)
+
+- [6. Staffzaken](#6-staffzaken)
+  - [6.1 Manier van gebruik /report](#61-manier-van-gebruik-report)
+  - [6.2 Eerlijkheid tegen Staff](#62-eerlijkheid-tegen-staff)
+  - [6.3 Voordoen als Staff](#63-voordoen-als-staff)
+  - [6.4 Staff abuse](#64-staff-abuse)
 
 ---
 
-## 1. Algemene Bepalingen
-- De straffen zijn verdeeld in negen categorieën:
-  1. Waarschuwing + 100 taken
-  2. Taakstraf 150 taken
-  3. Taakstraf 300 taken
-  4. Verbanning 1 dag + 500 taken
-  5. Verbanning 2 dagen + 750 taken
-  6. Verbanning 3 dagen + 1000 taken
-  7. Verbanning 1 week + 1250 taken
-  8. Permanente verbanning
-  9. Permanente verbanning + volledige account wipe
-- Staff kan naar redelijkheid en billijkheid afwijken van de straffen.
-- Headstaff en Hogerop mogen sancties opleggen zonder directe overtreding om het belang van meerdere burgers te beschermen.
-- Sancties kunnen worden toegepast op gebeurtenissen of onderwerpen die logisch zijn, ook als ze niet expliciet in de APV staan.
-- Alle staffzaken worden behandeld op feiten, logs en/of eigen perspectief.
-- Het is verplicht eigen perspectief te clippen of opnemen.
+## 1. Cheats
+
+### 1.1 Cheats / Externe Software / Hardware
+Het gebruik van software of hardware van derden om een oneerlijk voordeel te verkrijgen is uitdrukkelijk verboden. Dit omvat, maar is niet beperkt tot, scripts, hacks, exploitprogramma’s en hardwarematige cheats zoals DMA.  
+Overtredingen resulteren in permanente verbanning en/of volledige account wipe. Elke poging tot samenwerking met cheaters of kennisdeling over cheats valt eveneens onder deze bepaling.
+
+### 1.2 Exploits / Bugs
+Het opzettelijk gebruiken van exploits, bugs of gameglitches zonder melding aan het beheer is verboden. Ontdekte kwetsbaarheden moeten via het officiële meldingssysteem worden gerapporteerd. Niet-melding kan leiden tot verbanning of account reset.
+
+### 1.3 Alternatieve accounts
+Het overdragen van middelen, startersgeld of items tussen alternatieve accounts van jezelf of derden voor oneigenlijk voordeel is verboden. Overtreding leidt tot sancties in de 8e categorie.
+
+### 1.4 IRL Trading
+Het verhandelen van virtuele items, geld of accounts buiten het spel om is verboden. Deelname aan externe platforms of Discords voor dergelijke handel is eveneens verboden.
+
+### 1.5 Massa RDM / VDM
+Het opzettelijk doden van meerdere spelers zonder RP-rede is verboden. Strikte sancties volgen bij overtreding.
+
+### 1.6 Ticket / Refund fraude
+Het indienen van frauduleuze tickets, of herhaaldelijke verzoeken om refunds voor dezelfde situatie, is verboden en wordt zwaar bestraft.
+
+### 1.7 Doxen
+Het openbaar maken van persoonlijke informatie van andere spelers, of pogingen tot chantage, is uitdrukkelijk verboden en valt onder nationale wetgeving.
 
 ---
 
-## 2. Cheats en Externe Software
-- Gebruik van third-party software of hardware cheats is verboden.
-- Overtreder riskeert categorie 8–9 straf.
-- Samenwerking met cheaters, uitleggen van cheats of hardware zoals DMA leidt tot permanente verbanning en blacklist Dordrecht zonder unban mogelijkheid.
-- Windows Defender verplicht als actieve virusscanner.
-  
----
+## 2. Roleplay
 
-## 3. Exploits en Bugs
-- Exploits melden is verplicht; bij niet-melden volgt een straf van categorie 5–9.
-  
----
+### 2.1 FailRP
+Het bewust saboteren of niet meewerken aan RP-scenario's is verboden.
 
-## 4. Alternatieve Accounts
-- Verboden om geld van alternatieve accounts aan jezelf of vrienden te geven zonder rol in het spel.
-- Bij overtreding: categorie 8.
+### 2.2 Powergaming
+Het verkrijgen van oneerlijk voordeel door RP-activiteiten is verboden.
 
----
+### 2.3 Microfoon
+Een werkende, verstaanbare microfoon is verplicht. Misbruik wordt bestraft.
 
-## 5. IRL Trading
-- Verboden om artikelen, diensten, geld of accounts te verhandelen.
-- Deelname aan Discords die hierin handelen is verboden.
-- Bij overtreding: categorie 8–9.
+### 2.4 Kloten op gangterreinen
+Toegang tot andermans terrein zonder toestemming is verboden. Overtredingen leiden tot straf van 4e tot 7e categorie.
 
----
+### 2.5 Metagamen
+Gebruik van OOC-informatie IC is verboden.
 
-## 6. Massale RDM / VDM
-- Bewuste massale moord op burgers zonder reden is verboden.
-- Straf: categorie 8–9.
+### 2.6 Combatloggen
+Het verlaten van de stad binnen 10 minuten na een RP-scenario, illegale activiteiten of na gebruik van een vuurwapen is verboden.
 
----
+### 2.7 NVOL
+Suïcidale of waardeloze doodacties zijn strafbaar, met oplopende sancties bij herhaling.
 
-## 7. Ticket / Refundfraude
-- Informatie achterhouden of manipuleren in tickets is verboden.
-- Meerdere refunds voor dezelfde situatie is verboden.
-- Bij overtreding: categorie 8–9.
-- Second opinions voor refunds zijn verboden: 2000 taken straf.
+### 2.8 Stemherkenning / Gezichtsherkenning
+Herkenning van spelers via stem of gezicht is toegestaan onder strikte voorwaarden. Stemvervorming mag enkel voor criminele doeleinden.
 
----
+### 2.9 Onderwereld
+Criminele RP moet realistisch worden uitgevoerd. Niet-naleving wordt gesanctioneerd op basis van categorie.
 
-## 8. Doxen
-- Persoonlijke informatie van anderen delen of chantage gebruiken is verboden.
-- Straf: categorie 8–9.
-- Ook strafbaar volgens Nederlandse wet.
+### 2.10 Overheid
+Overheidspersoneel moet zich strikt houden aan RP-normen en wetgeving.
+
+### 2.11 Gangs
+Maximaal 23 leden en 2 hangarounds per gang. Samenwerking met andere spelers zonder goedkeuring is verboden.
+
+### 2.12 Eiland
+Rippen en gevechten op het eiland volgen eigen regels voor criminaliteit en RP-logica.
+
+### 2.13 Loodsen
+Huur en gebruik van loodsen moet RP-conform zijn; financiële misleiding wordt bestraft.
 
 ---
 
-## 9. Roleplay Gedrag
-### 9.1 FailRP
-- Opzettelijk scenario verpesten of slecht afmaken: categorie 1–5.
+## 3. Het gebruik van voertuigen
 
-### 9.2 Powergaming
-- Oneerlijk voordeel behalen: categorie 1–5.
+### 3.1 Voertuig gebruik
+Realistisch gebruik van voertuigen is verplicht. Pitten en brake-checks hebben categorie-afhankelijke limieten.
 
-### 9.3 Microfoon
-- Werken microfoon verplicht, Nederlands of Engels verplicht: categorie 1–5.
+### 3.2 Vehicle Deathmatch (VDM)
+Het gebruik van voertuigen als wapen is verboden.
 
-### 9.4 Kloten op gangterreinen
-- Geen toegang tot andermans terrein zonder reden: categorie 4–7.
+### 3.3 GTA Style Driving
+Onrealistisch rijden is verboden.
 
-### 9.5 Metagamen
-- OOC informatie niet gebruiken IC: categorie 3–7.
+### 3.4 Scammen van voertuigen
+Het oplichten of verkopen van voertuigen zonder correcte uitvoering is verboden.
 
-### 9.6 Combatloggen
-- Minimaal 30 minuten blijven na vuurwapengebruik; eerste overtreding: 3 dagen ban + 750 taken, escalatie bij herhaling.
-
-### 9.7 NVOL
-- Regels NVOL en escalatie bij herhaalde overtredingen.
-
-### 9.8 Stemherkenning
-- Stem herkennen toegestaan met restricties; misbruik: categorie 3–5.
+### 3.5 Landen van helikopters / vliegtuigen
+Het landen moet voldoen aan veiligheidsnormen, met uitzondering van door de vliegschool goedgekeurde locaties.
 
 ---
 
-## 10. Onderwereld, Overheid en Gangs
-- Crimineel gedrag en overheidsrollen moeten realistisch worden nageleefd: categorie 1–9.
-- Gangregels: max. 23 leden + 2 hangarounds, samenwerking met burgers vereist goedkeuring.
-- Gangwars enkel toegestaan met coördinatie.
+## 4. Het gebruik van wapens
+
+### 4.1 RDM
+Doden zonder RP-scenario is verboden.
+
+### 4.2 Wapengebruik
+Realistisch gebruik van wapens is verplicht. Waarschuwingsschoten moeten worden gegeven.
 
 ---
 
-## 11. Eiland- en Loodsregels
-- Rippen en wapenregels op het eiland: categorie 1–9.
-- Loodsregels: afspraken volgen; overtreding: categorie 1–9.
+## 5. Algemene regels
+
+### 5.1 Staffnamen / Bodycams / Discord
+Misbruik van staffnamen, bodycams of Discord is verboden.
+
+### 5.2 Taalgebruik
+Ongepast, discriminerend of beledigend taalgebruik is verboden.
+
+### 5.3 Haat veroorzakend / Toxic gedrag
+Toxic gedrag, bedreiging of intimidatie is verboden, zowel in-game als in Discord.
+
+### 5.4 Streamers en content creators
+Streaming is toegestaan, maar locaties van criminele functies mogen niet worden getoond.
 
 ---
 
-## 12. Voertuiggebruik
-- Realistisch gebruik, pitten en brake checking verboden boven vastgestelde limieten.
-- VDM verboden: categorie 3–9.
-- GTA Style Driving: categorie 3.
-- Scammen van voertuigen: categorie 9.
-- Luchtvaartregels: categorie 3–9.
+## 6. Staffzaken
 
----
+### 6.1 Manier van gebruik /report
+Misbruik van het report-systeem wordt bestraft.
 
-## 13. Wapens en RDM
-- RDM verboden: categorie 4–9.
-- Wapengebruik moet realistisch zijn: categorie 4.
+### 6.2 Eerlijkheid tegen Staff
+Liegen of informatie achterhouden tegenover staff is verboden.
 
----
+### 6.3 Voordoen als Staff
+Zich voordoen als stafflid is verboden.
 
-## 14. Algemene Regels
-- Steamnamen van staff niet gebruiken.
-- Bodycams toegestaan voor bewijs.
-- Externe Discords voor RP niet toegestaan.
-- Lookalikes van Dordrecht RP verboden.
-- Demonstraties toegestaan met schriftelijke toestemming.
-- Erotische RP verboden, uitzondering voor dans in clubs.
-- Omzeilen van regels niet toegestaan.
-- Refundregels strikt toepassen.
-- Cheats: refund enkel bij 100% bewijs.
-- Ongepast taalgebruik: categorie 5–8.
-- Haat/toxic gedrag: categorie 3–8.
-- Streamers en Content Creators: regels en strikesysteem.
-
----
-
-## 15. Staffzaken
-### 15.1 /Report
-- Max 1 report per 4 minuten; spam: categorie 1–3.
-
-### 15.2 Eerlijkheid tegen Staff
-- Liegen of informatie achterhouden: categorie 6–9.
-
-### 15.3 Voordoen als Staff
-- Nep-staff zijn: categorie 6–9.
-
-### 15.4 Staff abuse
-- Oneerlijk voordeel of perms misbruiken: categorie 8–9.
+### 6.4 Staff abuse
+Oneerlijke voordelen of perm-abuse door staff is verboden.
