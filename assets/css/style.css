@@ -90,7 +90,7 @@ th {
     border-radius: 4px;
 }
 
-@media (max-width: 768px) {
+ (max-width: 768px) {
     .sidebar {
         position: relative;
         width: 100%;
